@@ -133,7 +133,6 @@
         "TrickedMc": "2",
         "RabbitType99": "5",
         "bruhvehicle": "c",
-        "vndb": "4",
         "Nanify": "3",
         "SlashSlayer": "6",
         "ujc": "d",
@@ -304,6 +303,7 @@
         "ILeftClickedYou": "d",
         "AverageBabyYeti": "d",
         "Bedder": "f",
-        "NothingToLove": "d"
+        "NothingToLove": "d",
+        "rngdb": "4"
     }
 }
