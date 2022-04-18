@@ -126,6 +126,18 @@
         "The reward isn't in any of our chests",
         "Both of them are telling the truth."
     ],
+    "farmingWeight": {
+        "wheat": 1000,
+        "carrot": 3000,
+        "potato": 3000,
+        "pumpkin": 708.772477,
+        "melon": 3543.86238,
+        "mushroom": 549.837285,
+        "cocoa": 2196.49878,
+        "cactus": 1592.97815,
+        "cane": 2000,
+        "wart": 2500
+    },
     "colourednames": {
         "6940": "3",
         "NoticeMehSenpai": "z",
