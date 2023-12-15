@@ -139,6 +139,17 @@
         "cane": 2000,
         "wart": 2500
     },
+    "skills": {
+        "farming": 60,
+        "mining": 60,
+        "combat": 60,
+        "foraging": 50,
+        "fishing": 50,
+        "enchanting": 60,
+        "alchemy": 50,
+        "taming": 60,
+        "carpentry": 50
+    },
     "colourednames": {
         "6940": "3",
         "NoticeMehSenpai": "z",
